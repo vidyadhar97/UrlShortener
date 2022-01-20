@@ -6,4 +6,4 @@ I have developed this Url shortener using Spring MVC and Redis.
 
 # URLs
 - POST `/springboot/url` with body as `long_url_string` - For creating the short url from long url
-- GET `/spring/url/{id}` - For retrieving the long URL from short `id`
+- GET `/springboot/url/{id}` - For retrieving the long URL from short `id`
